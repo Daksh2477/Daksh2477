@@ -1,37 +1,75 @@
 # Hi, I'm Daksh Parmar 👋
 
-### Computer Engineering Student | Python Developer | AI & ML Enthusiast
+### Computer Engineering Student | Software Developer | Python & Data Science Enthusiast
 
-I'm a developer passionate about building practical software solutions, exploring artificial intelligence, and learning modern technologies.
+I'm a Computer Engineering student interested in building practical software solutions and exploring how technology can solve real-world problems.
+
+I enjoy working with programming, web development, data analysis and machine learning. I believe in learning through hands-on projects, experimenting with new technologies and continuously improving my development skills.
+
+### 👨‍💻 About Me
 
 - 🎓 Computer Engineering student
-- 💻 Interested in Python, AI/ML, Web Development and Software Engineering
-- 🚀 Building real-world projects and exploring new technologies
-- 🌱 Currently learning Machine Learning, Data Science and Full-Stack Development
+- 💻 Experienced in Python, Java, C, C++ and JavaScript
+- 🌐 Building web applications using React, Django and Node.js
+- 📊 Exploring Data Science and Machine Learning
+- 🚀 Interested in developing practical, real-world software solutions
 - 🏆 HackOut'26 participant — Team RunTimeZero
+- 🌱 Continuously learning and improving my software development skills
 
-### 🛠️ Tech Stack
+### 🛠️ Technical Skills
 
-**Languages:** Python, Java, C, C++, JavaScript, TypeScript
+**Programming Languages**
 
-**Web Development:** HTML, CSS, JavaScript, React, Django, Node.js
+Python · Java · C · C++ · JavaScript
 
-**Data Science & AI:** NumPy, Pandas, Matplotlib, Scikit-learn
+**Frontend Development**
 
-**Databases:** MongoDB, PostgreSQL, MySQL
+HTML · CSS · JavaScript · React
 
-**Tools:** Git, GitHub, VS Code, Jupyter Notebook
+**Backend Development**
+
+Python · Django · Node.js · Express.js
+
+**Data Science & Machine Learning**
+
+NumPy · Pandas · Matplotlib · Scikit-learn · Streamlit
+
+**Database**
+
+MySQL
+
+**Development Tools**
+
+Git · GitHub · VS Code · Jupyter Notebook
 
 ### 🚀 Featured Projects
 
-- **RunTimeZero / AlgaCarbon** — Algae-based carbon sequestration monitoring and verification platform.
-- **Portfolio** — Personal developer portfolio.
+**1. RunTimeZero — Algae-Based Carbon Sequestration Platform**
 
-### 📊 What I'm Working On
+A software platform designed to monitor algae cultivation, predict performance, identify abnormal conditions and estimate carbon sequestration.
 
-- Building practical software projects
-- Improving my development workflow with Git and GitHub
-- Exploring AI, Machine Learning and Data Science
+- Focus: Data Analysis, Machine Learning and Environmental Technology
+- GitHub: [RunTimeZero](https://github.com/Daksh2477/RunTimeZero)
+
+**2. Developer Portfolio**
+
+My personal portfolio showcasing my development journey, projects and technical skills.
+
+- GitHub: [Portfolio](https://github.com/Daksh2477/Portfolio)
+
+### 📚 Currently Exploring
+
+- Machine Learning and predictive modelling
+- Data Science and data visualization
+- Full-Stack Application Development
+- Software Engineering and professional Git workflows
+
+### 💡 My Approach
+
+- Learn by building real projects.
+- Focus on practical problem-solving.
+- Write clean and understandable code.
+- Stay curious and keep improving.
 
 ### 🤝 Connect With Me
 
@@ -39,4 +77,4 @@ I'm a developer passionate about building practical software solutions, explorin
 
 ---
 
-*Always learning. Always building.*
+**Always learning. Always building. Always improving.**
