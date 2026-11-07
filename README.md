@@ -93,6 +93,8 @@ A personal website showcasing my development journey, technical skills, projects
 
 [![GitHub](https://img.shields.io/badge/GitHub-Daksh2477-181717?style=for-the-badge&logo=github)](https://github.com/Daksh2477)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daksh_Parmar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daksh-parmar-44457b317/)
+
 ---
 
 ### 💡 My Development Philosophy
