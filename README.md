@@ -89,14 +89,6 @@ A personal website showcasing my development journey, technical skills, projects
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daksh2477&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh2477&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ## 🤝 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Daksh2477-181717?style=for-the-badge&logo=github)](https://github.com/Daksh2477)
