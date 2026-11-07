@@ -2,79 +2,111 @@
 
 ### Computer Engineering Student | Software Developer | Python & Data Science Enthusiast
 
-I'm a Computer Engineering student interested in building practical software solutions and exploring how technology can solve real-world problems.
+I enjoy building practical software solutions, exploring new technologies, and understanding how technology can solve real-world problems.
 
-I enjoy working with programming, web development, data analysis and machine learning. I believe in learning through hands-on projects, experimenting with new technologies and continuously improving my development skills.
+My interests include software development, web technologies, data science, and machine learning. I believe in learning through hands-on experience, experimenting with ideas, and continuously improving my technical skills.
 
-### 👨‍💻 About Me
+---
 
-- 🎓 Computer Engineering student
-- 💻 Experienced in Python, Java, C, C++ and JavaScript
-- 🌐 Building web applications using React, Django and Node.js
-- 📊 Exploring Data Science and Machine Learning
-- 🚀 Interested in developing practical, real-world software solutions
-- 🏆 HackOut'26 participant — Team RunTimeZero
-- 🌱 Continuously learning and improving my software development skills
+## 👨‍💻 About Me
 
-### 🛠️ Technical Skills
+- 🎓 Computer Engineering Student
+- 💻 Interested in Software Development, Python, and Artificial Intelligence
+- 🌐 Building web applications and backend systems
+- 📊 Exploring Data Science, Data Analysis, and Machine Learning
+- 🚀 Enjoy developing practical projects and solving technical challenges
+- 🏆 HackOut'26 Participant — Team RunTimeZero
+- 🌱 Continuously learning and improving my development workflow
 
-**Programming Languages**
+---
 
-Python · Java · C · C++ · JavaScript
+## 🛠️ Technical Skills
 
-**Frontend Development**
+### Programming Languages
 
-HTML · CSS · JavaScript · React
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Backend Development**
+### Frontend Development
 
-Python · Django · Node.js · Express.js
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**Data Science & Machine Learning**
+### Backend Development
 
-NumPy · Pandas · Matplotlib · Scikit-learn · Streamlit
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-**Database**
+### Data Science & Machine Learning
 
-MySQL
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-**Development Tools**
+### Database & Development Tools
 
-Git · GitHub · VS Code · Jupyter Notebook
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 🚀 Featured Projects
+---
 
-**1. RunTimeZero — Algae-Based Carbon Sequestration Platform**
+## 🚀 Featured Projects
 
-A software platform designed to monitor algae cultivation, predict performance, identify abnormal conditions and estimate carbon sequestration.
+### 1. RunTimeZero — Algae-Based Carbon Sequestration Platform
 
-- Focus: Data Analysis, Machine Learning and Environmental Technology
-- GitHub: [RunTimeZero](https://github.com/Daksh2477/RunTimeZero)
+A software platform designed to monitor algae cultivation, predict performance, identify abnormal conditions, and estimate carbon sequestration.
 
-**2. Developer Portfolio**
+**Key Areas:** Data Analysis · Machine Learning · Environmental Technology
 
-My personal portfolio showcasing my development journey, projects and technical skills.
+[![RunTimeZero](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Daksh2477/RunTimeZero)
 
-- GitHub: [Portfolio](https://github.com/Daksh2477/Portfolio)
+### 2. Personal Developer Portfolio
 
-### 📚 Currently Exploring
+A personal website showcasing my development journey, technical skills, projects, and interests.
+
+**Technologies:** HTML · CSS · JavaScript
+
+[![Portfolio](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Daksh2477/Portfolio)
+
+---
+
+## 📚 Currently Exploring
 
 - Machine Learning and predictive modelling
 - Data Science and data visualization
 - Full-Stack Application Development
-- Software Engineering and professional Git workflows
-
-### 💡 My Approach
-
-- Learn by building real projects.
-- Focus on practical problem-solving.
-- Write clean and understandable code.
-- Stay curious and keep improving.
-
-### 🤝 Connect With Me
-
-- GitHub: [@Daksh2477](https://github.com/Daksh2477)
+- Backend development and API integration
+- Software Engineering and version control
+- Building reliable and maintainable applications
 
 ---
 
-**Always learning. Always building. Always improving.**
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daksh2477&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh2477&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+## 🤝 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-Daksh2477-181717?style=for-the-badge&logo=github)](https://github.com/Daksh2477)
+
+---
+
+### 💡 My Development Philosophy
+
+> Learn by building.  
+> Solve problems with curiosity.  
+> Improve with every project.
+
+**Always learning. Always building. Always improving.** 🚀
